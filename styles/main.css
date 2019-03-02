@@ -1,0 +1,110 @@
+
+header {
+  background: #383838;
+    padding: 1rem;
+    margin: auto;
+    align-items: center;
+}
+
+body {
+    font-family: sans-serif;
+    color: #7F5545;
+    background: #FFE0E1;
+    margin: auto;
+}
+p {
+  margin: auto;
+  margin-left: 40px;
+  padding-bottom: 2rem;
+}
+
+h1 {
+  color: #FFE0B7;
+}
+
+h2{
+  color: #000;
+  padding-left: 1rem;
+  padding-top: 1rem;
+}
+
+article {
+  background: #FFECE5;
+  margin: 40px;
+  padding: 1rem;
+
+}
+img {
+    max-width: 100%;
+    padding: 20px;
+
+}
+
+#Click {
+  background: #ffb53f;
+    text-align: center;
+    padding: 1rem 2rem;
+    margin: 0 0 1rem 0;
+    display: inline-block;
+    cursor: pointer;
+}
+
+ .uni {
+    background: #79B289;
+    color: #f7f4ef;
+    max-width: 600px;
+    padding: 1rem;
+    margin: 1rem;
+    margin-bottom: 0.5rem;
+    cursor: pointer;
+    animation-name: hide;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+    animation-play-state: paused;
+}
+
+.uf {
+    background: #79B289;
+    color: #f7f4ef;
+    max-width: 600px;
+    padding: 1rem;
+    margin: 1rem;
+    margin-bottom: 0.5rem;
+    cursor: pointer;
+    animation-name: hide;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+    animation-play-state: paused;
+  }
+
+#beach {
+    animation-name: hide;
+    animation-duration: 1s;
+    animation-fill-mode: forwards;
+    animation-play-state: paused;
+}
+
+#photo2 {
+    animation-name: hide;
+    animation-duration: 1s;
+    animation-fill-mode: forwards;
+    animation-play-state: paused;
+}
+
+#question {
+    background: #5673FF;
+    color: #f7f4ef;
+    max-width: 600px;
+    padding: 2rem;
+    margin: 1rem;
+    margin-bottom: 2rem;
+    cursor: pointer;
+    animation-name: hide;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+    animation-play-state: paused;
+}
+
+footer {
+  margin: 2rem;
+}
